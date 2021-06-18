@@ -9,3 +9,7 @@
 - 팀원: 3명
 - 역할:Project Manager, 자동차 배치&기능구현&채색, ppt발표
 
+https://user-images.githubusercontent.com/59990712/122600164-5ab8a480-d0aa-11eb-89b6-6f2dde87b9c3.mp4
+
+
+
